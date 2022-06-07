@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Lokesh mahesh Bhardwaj",
+      "email": "lokesh@agmail.com",
+      "contact": "9173329264123",
+      "address": "Gandhidhammmmmm",
+      "id": 1
+    },
+    {
+      "name": "Harsh Upadhyay",
+      "email": "Upadhyay",
+      "contact": "123456789",
+      "address": "Ahmedabad",
+      "id": 2
+    },
+    {
+      "name": "Parth Kaushik",
+      "email": "parth@gmail.com",
+      "contact": "9988774455",
+      "address": "Gujarat",
+      "id": 3
+    },
+    {
+      "name": "fsdfsdf",
+      "email": "nilay@gmail.com",
+      "contact": "1122334564",
+      "address": "ahmedabad",
+      "id": 4
+    }
+  ]
+}
